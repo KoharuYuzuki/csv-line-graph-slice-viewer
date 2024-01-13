@@ -240,7 +240,7 @@
     データ "{{ data[key].name }}" を削除
   </button>
   <img src="/csv-format.png" width="800">
-  <a href="/third-party-licenses.txt">
+  <a href="./third-party-licenses.txt">
     サードパーティーライセンス
   </a>
 </template>
